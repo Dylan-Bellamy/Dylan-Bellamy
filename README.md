@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a 3rd year computer engineer<br>- 📚 I'm currently learning Verilog<br>- ⚡ Fun fact, I'm an archaeology enthusiast</p>
+<p align="left">- 🔭 I’m a 3rd year computer engineer<br>- 📚 I'm currently learning Verilog<br>- ⚡ Avid Reader, Listener, and Talker</p>
 
 ###
 
